@@ -1,3 +1,11 @@
+https://console.cloud.google.com/apis/credentials/consent?hl=pt-br&project=careful-hangar-378012&supportedpurview=project
+
+https://developers.google.com/oauthplayground/
+
+npm i @prisma/client
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
