@@ -2,6 +2,8 @@ https://console.cloud.google.com/apis/credentials/consent?hl=pt-br&project=caref
 
 https://developers.google.com/oauthplayground/
 
+npm i @prisma/client
+
 
 
 <p align="center">
