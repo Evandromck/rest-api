@@ -2,3 +2,5 @@ temp 55:11
 time 1:10
 
 start /// npm run start:dev
+
+gerar um serviço chamado "prisma" criar um prisma service -> "nest g service prismas"

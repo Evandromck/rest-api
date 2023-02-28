@@ -13,6 +13,10 @@ export class UserController {
     async getUsers(){
         return "Executando via get, recuperando todos os usuários";
     }
+    @Get(':id')
+    async getUserById(){
+        return "Executando via get, recuperando todos os usuários";
+    }
 
     @Post()
      async createUser(){
@@ -20,7 +24,7 @@ export class UserController {
 
      }
 
-     @Put()
+     @Put(':id')
      async updateUser(){
         return 'executando operação via put';
      }
